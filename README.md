@@ -5,20 +5,20 @@
 
 ---
 
-### 🚀 **[View My Full Portfolio & Resume Website](https://jayaraju-gorle.github.io/)**
-*(Click the link above for my detailed professional history, education, and case studies)*
+### 🌐 **[jayaraju-gorle.github.io](https://jayaraju-gorle.github.io)**
+*(My personal portfolio and project showcase)*
 
 ---
 
 ### 👨‍💻 About Me
-With over **12 years** of experience and an MBA from **IIM Calcutta**, I specialize in Product Strategy, B2B SaaS, and Data Analysis. My career spans healthcare, affiliate marketing, and travel tech.
+With over **12 years** of experience and an MBA from **IIM Calcutta**, I specialize in Product Strategy, B2B SaaS, and Data Analysis.
 
 - 🔭 I’m currently leading product initiatives at **Apollo 24|7**.
-- 🌱 I previously led product development at **mPhase Technologies** & **CouponDunia**.
+- 🌱 I previously worked as a Product Manager at **Future Group India**, building conversational AI for retail.
+- 🚀 I also led product development at **mPhase Technologies** & **CouponDunia**.
 - 🎓 **Education:** MBA (IIM Calcutta) & B.Tech (IIT Kharagpur).
 
 ### 🛠 Featured Projects
-Here are a few tools and products I have built and maintain:
 
 | Project | Description | Link |
 | :--- | :--- | :--- |
@@ -27,7 +27,7 @@ Here are a few tools and products I have built and maintain:
 | **AI Powered Calculator** | Natural language calculator with advanced functions. | [Try It](https://jayaraju-gorle.github.io/ai-calculator/) |
 
 ### 🎯 Core Competencies
-`Product Strategy` `Roadmapping` `Data Analysis` `B2B SaaS` `Market Analysis` `SEO` `Conversational AI`
+`Product Strategy` `Roadmapping` `Data Analysis` `B2B SaaS` `Conversational AI` `Market Analysis`
 
 ---
 
