@@ -10,10 +10,10 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨💻 About Me
 With over **12 years** of experience and an MBA from **IIM Calcutta**, I specialize in Product Strategy, B2B SaaS, and Data Analysis.
 
-- 🔭 I’m currently leading product initiatives at **Apollo 24|7**.
+- 🔭 I'm currently leading product initiatives at **Apollo 24|7**.
 - 🌱 I previously worked as a Product Manager at **Future Group India**, building conversational AI for retail.
 - 🚀 I also led product development at **mPhase Technologies** & **CouponDunia**.
 - 🎓 **Education:** MBA (IIM Calcutta) & B.Tech (IIT Kharagpur).
@@ -25,6 +25,7 @@ With over **12 years** of experience and an MBA from **IIM Calcutta**, I special
 | **Doctors Availability Checker** | Realtime doctor availability lookup tool. | [View App](https://doctors-availability-checker-968458253320.us-west1.run.app) |
 | **DataToolkitForSheets** | Add-ons to process and analyze spreadsheet data quickly. | [Visit Site](https://www.datatoolkitforsheets.com/) |
 | **AI Powered Calculator** | Natural language calculator with advanced functions. | [Try It](https://jayaraju-gorle.github.io/ai-calculator/) |
+| **Wealth Tracker** | Track personal and family wealth with offline-first PWA and real-time sync. | [Try It](https://jayaraju-gorle.github.io/wealth-tracker/) |
 
 ### 🎯 Core Competencies
 `Product Strategy` `Roadmapping` `Data Analysis` `B2B SaaS` `Conversational AI` `Market Analysis`
