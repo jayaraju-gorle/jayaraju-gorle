@@ -11,10 +11,10 @@
 ---
 
 ### 👨💻 About Me
-With over **12 years** of experience and an MBA from **IIM Calcutta**, I specialize in Product Strategy, B2B SaaS, and Data Analysis.
+With close to **14 years** of experience and an MBA from **IIM Calcutta**, I specialize in Product Strategy, B2B SaaS, and Data Analysis.
 
-- 🔭 I'm currently leading product initiatives at **Apollo 24|7**.
-- 🌱 I previously worked as a Product Manager at **Future Group India**, building conversational AI for retail.
+- 🔭 I've led product initiatives at **Apollo 24|7**, including AI powered conversational products for doctor consultation vertical.
+- 🌱 I worked as a Product Manager at **Future Group India**, building conversational AI for retail.
 - 🚀 I also led product development at **mPhase Technologies** & **CouponDunia**.
 - 🎓 **Education:** MBA (IIM Calcutta) & B.Tech (IIT Kharagpur).
 
