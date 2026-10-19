@@ -1,6 +1,6 @@
 # Hi, I'm Jayaraju Gorle 👋
 
-#### Product Manager | IIM Calcutta | IIT KGP
+#### Product Builder | IIM Calcutta | IIT KGP
 *Building digital products and scalable software systems that solve real-world problems.*
 
 ---
