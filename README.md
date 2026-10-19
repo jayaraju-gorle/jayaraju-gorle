@@ -1,6 +1,6 @@
 # Hi, I'm Jayaraju Gorle 👋
 
-#### Product Manager @ Apollo 24|7 | IIM Calcutta | IIT KGP
+#### Product Manager | IIM Calcutta | IIT KGP
 *Building digital products and scalable software systems that solve real-world problems.*
 
 ---
